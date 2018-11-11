@@ -6,7 +6,7 @@ package carellaprojects.anonymousfunctions;
  * in the {@code executeFunctions} method,  although lambda expressions  can also be defined in the
  * class itself, outside of the class methods.  The {@code executeFunctions} method then calls  the
  * {@code runFunction}  method for each  of the anonymous functions and  passes each of  them as  a
- * parameter (one of the use cases for using lambda expressions). The interface being used is
+ * parameter (one of the use cases for using lambda expressions).  The interface being used  is for
  * {@code MyFunction}, with a single abstract method.
  * 
  * <code>
